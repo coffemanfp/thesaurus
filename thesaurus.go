@@ -1,4 +1,4 @@
-package main
+package thesaurus
 
 // Thesaurus is a thesaurus representation.
 type Thesaurus interface {

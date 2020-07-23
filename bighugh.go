@@ -1,4 +1,4 @@
-package main
+package thesaurus
 
 import (
 	"encoding/json"
